@@ -1,1 +1,3 @@
 # Projects
+
+# List of Projects and all sort of related computer science activities including but not limited to competitive programming, game dev...
